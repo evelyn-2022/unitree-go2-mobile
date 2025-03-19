@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218227732386",
+    "project_id": "unitree-go2",
+    "storage_bucket": "unitree-go2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218227732386:android:a4a7ae2bf0a8e1a29d4cfb",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPlrg-7eqYQADEffLcLyGgbuy2xbGyA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
